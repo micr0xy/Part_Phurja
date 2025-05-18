@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.navbar {
+	background-color: #001F3F !important; 
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+	color: #FFFFFF !important; 
+}
+
+.navbar-brand:hover, .navbar-nav .nav-link:hover {
+	color: #CCCCCC !important;
+}
+
+
+/*Enlarged text for the PartPurja*/
+.brand-text {
+	font-weight: bold;
+	font-size: 2em;
+		
+}
+
+

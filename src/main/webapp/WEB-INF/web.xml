@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <description></description>
+    <display-name>AddProducts</display-name>
+    <servlet-name>AddProducts</servlet-name>
+    <servlet-class>com.admin.servlet.AddProducts</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddProducts</servlet-name>
+    <url-pattern>/AddProducts</url-pattern>
+  </servlet-mapping>
+
+</web-app>
